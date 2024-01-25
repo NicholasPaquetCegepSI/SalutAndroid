@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ma première application</string>
+    <string name="textePrincipal">Salut Android !</string>
+    <string name="boutonMiseAJourPortrait">Mise à jour (Portrait)</string>
+    <string name="boutonMiseAJourPaysage">Mise à jour (Paysage)</string>
+    <string name="texteLandscape">Texte affiché que pour l\'orientation Paysage</string>
+</resources>
