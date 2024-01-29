@@ -3,6 +3,6 @@
     <string name="app_name">My First application</string>
     <string name="textePrincipal">Hi Android !</string>
     <string name="boutonMiseAJourPortrait">Update (Portrait)</string>
-    <string name="texteLandscape">Text displated only for Landscape orientation</string>
+    <string name="texteLandscape">Text displayed only for Landscape orientation</string>
     <string name="boutonMiseAJourPaysage">Update (Landscape)</string>
 </resources>
